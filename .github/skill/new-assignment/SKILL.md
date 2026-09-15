@@ -24,11 +24,11 @@ Use os scripts incluídos; NÃO edite `config.json` manualmente.
 
 **Registrar a assignment:**
 
-    node .github/skills/new-assignment/scripts/update-config.js <id> "<title>" "<description>"
+    node .github/skill/new-assignment/scripts/update-config.js <id> "<title>" "<description>"
 
 **Registrar cada arquivo como attachment** (starter code, arquivos de dados etc.):
 
-    node .github/skills/new-assignment/scripts/add-attachment.js <id> "<display-name>" <filename> <type>
+    node .github/skill/new-assignment/scripts/add-attachment.js <id> "<display-name>" <filename> <type>
 
 Tipos comuns: `python`, `csv`, `json`, `txt`, `html`
 
