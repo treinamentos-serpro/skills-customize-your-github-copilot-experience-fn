@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-csv",
+      "title": "Functions and CSV",
+      "description": "Read CSV data, calculate averages, and build a simple student report using Python functions.",
+      "path": "assignments/functions-and-csv",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
